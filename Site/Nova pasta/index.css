@@ -1,0 +1,19 @@
+body {
+	background-color: #111e6c;
+	padding-top: 5%;
+}
+
+#logo	{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+p {
+	font-size: 40px;
+	font-family: Sans-Serif;
+	text-align: center;
+	color: #ff7417;
+	text-decoration: bold;
+}
+
